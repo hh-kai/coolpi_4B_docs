@@ -24,4 +24,5 @@ sudo apt-get install cmake
 sudo apt-get install qtbase5-dev qtchooser qt5-qmake qtbase5-dev-tools
 sudo apt-get install qtcreator
 sudo apt-get install qt5*
+sudo apt-get install libqt5multimedia5 libqt5serialport5-dev libudev-dev libmpv-dev
 ```
