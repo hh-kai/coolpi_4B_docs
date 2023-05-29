@@ -47,4 +47,5 @@ sudo apt-get install gstreamer1.0-rockchip1
 ```
 
 sudo apt-get install libqtk2.0-dev
+sudo apt-get install libsdl2-dev libcurl4-openshh-dev
 
