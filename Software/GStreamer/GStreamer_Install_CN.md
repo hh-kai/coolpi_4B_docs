@@ -46,3 +46,5 @@ sudo apt-get install librga2
 sudo apt-get install gstreamer1.0-rockchip1 
 ```
 
+sudo apt-get install libqtk2.0-dev
+
